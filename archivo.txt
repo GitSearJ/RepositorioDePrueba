@@ -1,7 +1,12 @@
+Hola Bienvenido
+
 Linea de comandos 1
 Linea de comandos 2
-Linea de comandos 3
+Linea des comandos 3
 Linea de comandos 4
 Linea de comandos 7
 
 otro cambio
+
+
+Curso de platzi
