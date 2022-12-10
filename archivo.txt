@@ -1,12 +1,7 @@
-Hola Bienvenido
-
 Linea de comandos 1
 Linea de comandos 2
-Linea des comandos 3
+Linea de comandos 3
 Linea de comandos 4
-Linea de comandos 7
+Linea de comandos 5
 
-otro cambio
-
-
-Curso de platzis
+del pasado al futuro
