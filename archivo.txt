@@ -7,6 +7,7 @@ Linea de comandos 5
 del pasado al futuro
 
 
+<<<<<<< HEAD
 
 
 
@@ -16,3 +17,8 @@ del pasado al futuro
 
 
 haciendo pruebas con la rama master
+=======
+cabecera agregada
+
+cambio en la rama cabecera
+>>>>>>> cabecera
