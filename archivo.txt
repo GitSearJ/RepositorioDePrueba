@@ -18,4 +18,4 @@ del pasado al futuro
 haciendo pruebas con la rama master
 cabecera agregada
 
-cambio en la rama cabecera
+cambio en la rama cabeceras
